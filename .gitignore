@@ -1,0 +1,2 @@
+# Ignorar el directorio lib dentro de venv
+venv/lib/
